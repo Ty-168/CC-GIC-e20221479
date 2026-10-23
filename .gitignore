@@ -13,3 +13,4 @@ credentials
 
 # Node.js (Lab 11)
 node_modules/
+.DS_Store
